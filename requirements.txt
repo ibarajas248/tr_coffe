@@ -1,0 +1,15 @@
+streamlit
+pandas
+matplotlib
+plotly
+pickle
+pandas
+requests
+matplotlib
+seaborn
+mysql-connector-python
+geopy
+folium
+streamlit-folium
+openpyxl
+scikit-learn
